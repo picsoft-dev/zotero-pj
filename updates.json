@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "gestionpj": {
+      "updates": [
+        {
+          "version": "0.81",
+          "update_link": "https://github.com/picsoft-dev/zotero-pj/raw/main/gestion_0.81.xpi"
+        }
+      ]
+    }
+  }
+}
